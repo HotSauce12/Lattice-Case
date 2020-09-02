@@ -10,3 +10,7 @@ Didn't really like the case already made for the Lattice PCB so I decided to mak
 * L4 (plate) - 1.5mm thickness
 * L5 x 2 - 3mm thickness (2 of this!)
 * L6 (clear acrylic cover) - 2mm thickness
+
+![Top image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Top%20with%20edges.PNG)
+
+![Slanted image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Slanted%20view%20with%20edges.PNG)

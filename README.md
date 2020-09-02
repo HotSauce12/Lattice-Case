@@ -12,6 +12,6 @@ Didn't really like the case already made for the Lattice PCB so I decided to mak
 * L0 - 3mm thickness
 
 ![Top image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Top%20with%20edges.PNG)
-
-![Slanted image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Slanted%20view%20with%20edges.PNG)
+![Slanted top image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Slanted%20front%20view%20with%20edges.PNG)
+![Slanted side image](https://github.com/HotSauce12/Lattice-Case/blob/master/Images/Slanted%20side%20view%20with%20edges.PNG)
 

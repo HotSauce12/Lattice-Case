@@ -16,5 +16,6 @@ Feet:
 
 To-do:
 - [X] Add feet
+- [ ] Add cross design to feet
 - [ ] Possibly change screw holes dimensions to accommodate standoffs (aesthetics?)
 

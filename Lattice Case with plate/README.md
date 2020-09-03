@@ -8,3 +8,8 @@ Acrylic case with plate
 * L1 - 3mm thickness
 * L0 - 3mm thickness
 
+
+To-do:
+- [ ] Add feet
+- [ ] Possibly change screw holes dimensions to accommodate standoffs (aesthetics?)
+

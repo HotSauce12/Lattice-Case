@@ -17,7 +17,8 @@ Feet:
 To-do:
 - [X] Add feet
 - [X] Add cross design to feet
-- [ ] Possibly change screw holes dimensions to accommodate standoffs (aesthetics?)
+- [X] Possibly change screw holes dimensions to accommodate standoffs
+- [ ] Change typing angle to 5°
 
 Need:
 26 x m2x5mm screws

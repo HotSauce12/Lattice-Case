@@ -1,19 +1,8 @@
-Acrylic case
+Acrylic case with 3mm plate
 
-* L6 (clear acrylic cover) - 2mm thickness
-* L5 x 2 - 3mm thickness (2 of this!)
-* L4 (plate) - 1.5mm thickness of polyoxymethylene (POM)
-* L3 - 3mm thickness
-* L2 - 1.6mm thickness (thickness of PCB)
-* L1 - 3mm thickness
-* L0 - 3mm thickness
-
-Aluminium case (Design in progress)
-
-* L6 (clear acrylic cover) - 2mm thickness
-* L5 x 2 - 3mm thickness (2 of this!)
-* L4 (plate) - 1.5mm thickness of aluminium (POM)
-* L3 - 3mm thickness
-* L2 - 3mm thickness 
-* L1 - 3mm thickness
+* L6 (clear acrylic cover) - 3mm thickness
+* L4/5 x 2 - 3mm thickness each (2 of this! 1 for L5 and 1 for L6)
+* L3 (plate) - 3mm (pick either the one with corner holes or no corner holes)
+* L2 - 3mm thickness
+* L1 - 3mm thickness each
 * L0 - 3mm thickness

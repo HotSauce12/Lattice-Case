@@ -7,6 +7,7 @@ The images below are not updated but it's a rough sense of the design
 
 To-do:
 - [ ] Fix up the dimensions and screws for the plateless design
+- [ ] Change L0 feet screw hole for plateless design
 - [ ] Add feet for both designs
 - [ ] Possibly change screw holes in with plate design to accommodate standoffs (aesthetics?)
 

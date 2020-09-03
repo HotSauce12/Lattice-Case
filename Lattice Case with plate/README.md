@@ -19,3 +19,7 @@ To-do:
 - [X] Add cross design to feet
 - [ ] Possibly change screw holes dimensions to accommodate standoffs (aesthetics?)
 
+Need:
+26 x m2x5mm screws
+10 x m2x14mm standoffs
+3 x m2x5mm standoffs (for feet)

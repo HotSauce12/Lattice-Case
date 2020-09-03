@@ -43,7 +43,7 @@ $EXTMAX
  10
 338.2000000000001
  20
--214.892686429603
+-214.8926864296029
  30
 0.0
   9
@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2459095.723113426
+2459096.626770834
   9
 $TDUUPDATE
  40
-2459095.389780093
+2459096.293437500
   9
 $TDINDWG
  40
-0.0408564815
+0.0413194444
   9
 $TDUSRTIMER
  40
-0.0408564815
+0.0413194444
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-100FA
+100FF
   9
 $SURFTAB1
  70
@@ -937,7 +937,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{50E75D42-4CF0-724C-9B96-B389A8DA44CD}
+{EE23CE07-4FFC-614D-9525-C35F7219A7A6}
   9
 $EXTNAMES
 290
@@ -1279,7 +1279,7 @@ ObjectDBX Classes
  90
      1152
  91
-        1
+        2
 280
      0
 281
@@ -1325,9 +1325,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-357.1379416103125
+175.9351717387859
  22
--326.0109913841355
+-300.7419765639631
  13
 0.0
  23
@@ -1353,7 +1353,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-530.6614074305482
+207.6811150753037
  41
 2.305925030229746
  42
@@ -1885,7 +1885,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -1905,7 +1905,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -1925,7 +1925,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -1945,7 +1945,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -1965,7 +1965,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -1985,7 +1985,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 LINE
   5
@@ -2195,7 +2195,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -2215,7 +2215,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -2235,7 +2235,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -2255,7 +2255,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 CIRCLE
   5
@@ -2275,7 +2275,7 @@ AcDbCircle
  30
 0.0
  40
-1.625000000000014
+1.7
   0
 LINE
   5
@@ -2583,7 +2583,7 @@ AcDbLine
  30
 0.0
  11
-47.62500000000002
+47.62500000000001
  21
 -222.8926864296029
  31
@@ -2603,7 +2603,7 @@ Continuous
 100
 AcDbLine
  10
-47.62500000000002
+47.62500000000001
  20
 -222.8926864296029
  30
@@ -3001,7 +3001,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-100F9
+100FE
   3
 AcDbVariableDictionary
 350
@@ -3455,7 +3455,7 @@ X-Ray
   0
 XRECORD
   5
-100F9
+100FE
 102
 {ACAD_REACTORS
 330
@@ -5257,7 +5257,7 @@ ANSI31
  40
 -0.2617993877991494
  40
-1.832595714594046
+1.832595714594045
   0
 TABLESTYLE
   5
@@ -5648,8 +5648,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -5910,8 +5908,6 @@ Basic
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6172,8 +6168,6 @@ Brighten
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6436,8 +6430,6 @@ ColorChange
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6698,8 +6690,6 @@ Conceptual
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6960,8 +6950,6 @@ Dim
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7222,8 +7210,6 @@ EdgeColorOff
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -7484,8 +7470,6 @@ Facepattern
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7746,8 +7730,6 @@ Flat
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8008,8 +7990,6 @@ FlatWithEdges
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8270,8 +8250,6 @@ Gouraud
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8532,8 +8510,6 @@ GouraudWithEdges
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8794,8 +8770,6 @@ Hidden
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -9056,8 +9030,6 @@ JitterOff
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -9318,8 +9290,6 @@ Linepattern
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -9580,8 +9550,6 @@ OverhangOff
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -9842,8 +9810,6 @@ Realistic
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10106,8 +10072,6 @@ Shaded
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10368,8 +10332,6 @@ Shaded with edges
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10630,8 +10592,6 @@ Shades of Gray
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10892,8 +10852,6 @@ Sketchy
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -11154,8 +11112,6 @@ Thicken
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -11416,8 +11372,6 @@ Wireframe
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -11678,8 +11632,6 @@ X-Ray
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -12033,7 +11985,7 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-100F8
+100FD
   0
 XRECORD
   5
@@ -12397,7 +12349,7 @@ AcDbXrecord
   0
 CELLSTYLEMAP
   5
-100F8
+100FD
 102
 {ACAD_REACTORS
 330
@@ -12455,9 +12407,159 @@ CONTENTFORMAT_BEGIN
 309
 CONTENTFORMAT_END
 171
-     0
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
  94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
         0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
 309
 TABLEFORMAT_END
   1
@@ -12515,9 +12617,159 @@ CONTENTFORMAT_BEGIN
 309
 CONTENTFORMAT_END
 171
-     0
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
  94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
         0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
 309
 TABLEFORMAT_END
   1
@@ -12575,9 +12827,159 @@ CONTENTFORMAT_BEGIN
 309
 CONTENTFORMAT_END
 171
-     0
+     1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.18
+ 40
+0.18
+309
+CELLMARGIN_END
  94
+        6
+ 95
+        1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
         0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+        8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+       32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+        0
+ 91
+        1
+ 62
+     0
+ 92
+       -2
+340
+0
+ 93
+        0
+ 40
+0.045
+309
+GRIDFORMAT_END
 309
 TABLEFORMAT_END
   1

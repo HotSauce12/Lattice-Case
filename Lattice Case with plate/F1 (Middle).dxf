@@ -9,7 +9,7 @@ AC1032
   9
 $ACADMAINTVER
  90
-      130
+      174
   9
 $DWGCODEPAGE
   3
@@ -17,7 +17,7 @@ ANSI_1252
   9
 $LASTSAVEDBY
   1
-ethanng
+ngeth
   9
 $REQUIREDVERSIONS
 160
@@ -33,17 +33,17 @@ $INSBASE
   9
 $EXTMIN
  10
-36.44999999999999
+47.45
  20
--346.462686429603
+-266.162686429603
  30
 0.0
   9
 $EXTMAX
  10
-338.2000000000001
+327.2000000000001
  20
--214.892686429603
+-242.1223864296029
  30
 0.0
   9
@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2459096.511423611
+2459096.628900463
   9
 $TDUUPDATE
  40
-2459096.178090278
+2459096.295567130
   9
 $TDINDWG
  40
-0.0388425926
+0.0389814815
   9
 $TDUSRTIMER
  40
-0.0388425926
+0.0389814815
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-1014D
+10152
   9
 $SURFTAB1
  70
@@ -937,7 +937,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{3190680A-CCC6-EB47-9BB0-A81F175327C5}
+{5B748DAF-85CD-8746-87B0-28F752C99683}
   9
 $EXTNAMES
 290
@@ -1263,7 +1263,7 @@ ObjectDBX Classes
  90
         0
  91
-       10
+        9
 280
      0
 281
@@ -1279,7 +1279,7 @@ ObjectDBX Classes
  90
      1152
  91
-        3
+        2
 280
      0
 281
@@ -1325,9 +1325,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-339.6117953842278
+310.916777248412
  22
--136.2498785626619
+-200.2303363875137
  13
 0.0
  23
@@ -1353,9 +1353,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-726.2462801788574
+284.2257514393988
  41
-1.360691144708423
+2.305925030229746
  42
 50.0
  43
@@ -1617,7 +1617,7 @@ VIEW
 100
 AcDbSymbolTable
  70
-     2
+     0
   0
 ENDTAB
   0
@@ -1749,7 +1749,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-     2
+     1
   0
 BLOCK_RECORD
   5
@@ -2137,7 +2137,7 @@ AcDbCircle
  30
 0.0
  40
-2.0
+1.7
   0
 CIRCLE
   5
@@ -2159,7 +2159,7 @@ AcDbCircle
  30
 0.0
  40
-2.0
+1.7
   0
 CIRCLE
   5
@@ -2181,7 +2181,7 @@ AcDbCircle
  30
 0.0
  40
-2.0
+1.7
   0
 LINE
   5
@@ -2365,7 +2365,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-1014C
+10151
   3
 AcDbVariableDictionary
 350
@@ -2419,7 +2419,7 @@ AcDbXrecord
 280
      1
 300
-ACDMAC
+ACD
 300
 2021
 300
@@ -2835,7 +2835,7 @@ X-Ray
   0
 XRECORD
   5
-1014C
+10151
 102
 {ACAD_REACTORS
 330
@@ -4657,7 +4657,7 @@ ANSI31
  40
 -0.2617993877991494
  40
-1.832595714594045
+1.832595714594044
   0
 TABLESTYLE
   5
@@ -5048,8 +5048,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -5316,8 +5314,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -5584,8 +5580,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -5854,8 +5848,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6122,8 +6114,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6390,8 +6380,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -6658,8 +6646,6 @@ AcDbVisualStyle
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -6926,8 +6912,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7194,8 +7178,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7462,8 +7444,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7730,8 +7710,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -7998,8 +7976,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8266,8 +8242,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -8534,8 +8508,6 @@ AcDbVisualStyle
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -8802,8 +8774,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -9070,8 +9040,6 @@ AcDbVisualStyle
      0
  62
     18
-420
-        0
 176
      0
  90
@@ -9338,8 +9306,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -9608,8 +9574,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -9876,8 +9840,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10144,8 +10106,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10412,8 +10372,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10680,8 +10638,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -10948,8 +10904,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -11216,8 +11170,6 @@ AcDbVisualStyle
      1
  62
     18
-420
-        0
 176
      1
  90
@@ -11517,7 +11469,7 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-1014B
+10150
   0
 XRECORD
   5
@@ -11647,7 +11599,7 @@ MATERIAL
   0
 CELLSTYLEMAP
   5
-1014B
+10150
 102
 {ACAD_REACTORS
 330

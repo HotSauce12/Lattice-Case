@@ -19,6 +19,8 @@ To-do:
 - [X] Add cross design to feet
 - [X] Possibly change screw holes dimensions to accommodate standoffs
 - [ ] Change typing angle to 5°
+- [ ] Add gasket?
+- [ ] Add clip on etching
 
 Need:
 26 x m2x5mm screws

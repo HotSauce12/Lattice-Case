@@ -19,9 +19,12 @@ To-do:
 - [X] Add cross design to feet
 - [X] Possibly change screw holes dimensions to accommodate standoffs
 - [X] Added alternative plate layout
-- [ ] Change typing angle to 5°
+- [X] Change typing angle to 5°
 - [ ] Add gasket?
-- [X] Add switch clip on etching to
+- [ ] Add switch clip on etching?
+- [X] Add 1.5mm plates
+- [ ] Add compatability for 1.5mm plate in other layers
+- [ ] Add possibility of adding backplate cus it looks nice
 
 Need:
 26 x m2x5mm screws

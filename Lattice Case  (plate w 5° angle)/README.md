@@ -2,8 +2,8 @@ Acrylic case with plate
 
 * L6 (clear acrylic cover) - 3mm thickness
 * L5 - 3mm thickness
-* L4 - 3mm thickness (blue lines should be etched out by 1.5mm)
-* L3 (plate) - 3mm thickness
+* L4 (plate) - 3mm thickness
+* L3 - 3mm thickness
 * L2 - 3mm thickness
 * L1 - 3mm thickness
 * L0 - 3mm thickness

@@ -28,5 +28,5 @@ To-do:
 
 Need:
 26 x m2x5mm screws
-10 x m2x14mm standoffs
+10 x m2x11mm standoffs
 3 x m2x5mm standoffs (for feet)

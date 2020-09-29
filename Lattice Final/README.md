@@ -1,6 +1,7 @@
 Acrylic case with plate
 
-* L6 (clear acrylic cover) - 3mm thickness
+* L7 (clear acrylic cover) - 3mm thickness
+* L6 - 3mm thickness
 * L5 - 3mm thickness
 * L4 (plate) - 3mm thickness
 * L3 - 3mm thickness
@@ -24,9 +25,9 @@ To-do:
 - [ ] Add switch clip on etching?
 - [X] Add 1.5mm plates
 - [ ] Add compatability for 1.5mm plate in other layers
-- [ ] Add possibility of adding backplate cus it looks nice
+- [X] Add possibility of adding backplate cus it looks nice
 
 Need:
 26 x m2x5mm screws
-10 x m2x11mm standoffs
+10 x m2x17mm standoffs
 3 x m2x5mm standoffs (for feet)
